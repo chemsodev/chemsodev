@@ -12,8 +12,8 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chemsodev&show_icons=true&theme=radical" alt="GitHub Stats"/>
   </a>
   <br>
-  🔥 Contribution Streak
- <img src="https://streak-stats.demolab.com?user=chemsodev&theme=radical" alt="GitHub Streak Stats" /> </p>
+ <img src="https://streak-stats.demolab.com?user=chemsodev&theme=radical" alt="GitHub Streak Stats" /> 
+</p>
 
 ---
 
